@@ -1,0 +1,111 @@
+body{
+    background-image: url('pngtree-straight-road-png-image_3252059.jpg');
+  background-size: 100% 10px ;
+  height: 10000px;
+  
+}
+
+div.p{
+    margin:0 auto;
+    width: 400px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50%;
+    padding: 5px;
+}
+
+a{
+    height: 100%;
+}
+
+.q{
+    margin:70%;
+    width: 400px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 200px;
+    padding: 5px;
+  
+}
+
+.w{
+    margin: 80%;
+    width: 400px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+    padding: 5px;
+    
+}
+
+.e{
+    margin: 70%;
+    width: 400px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 500px;
+    padding: 5px;
+
+}
+
+.r{
+    margin:85%;
+    width: 400px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+    padding: 5px;
+
+}
+
+.t{
+    margin:70%;
+    width: 400px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 300px;
+    padding: 5px;
+
+}
+
+.a{
+    margin:70%;
+    position: relative;
+    top: 10px;
+    
+  
+}
+
+div.catl1{
+    position: absolute;
+    top: -50px;
+    
+}
+
+div.catl2{
+    position: absolute;
+   
+}
+
+div.catl3{
+    position: relative;
+    left: 200px;
+    position: fixed;
+}
+
+div.catl4{
+    position: relative;
+    top: 500px;
+   
+}
+
+div.catl5{
+    position: relative;
+    top: 800px;
+    left: 80px;
+}
+
+
+a{
+    height: 100%;
+}
